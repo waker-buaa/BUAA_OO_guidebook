@@ -1,2 +1,2 @@
 # BUAA_OO_guidebook
-面向对象指导书
+2016级BUAA面向对象指导书
